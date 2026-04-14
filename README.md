@@ -1,1 +1,3 @@
-# Sudoku-Project-April-14-2026
+Project: Sudoku Puzzle Generator
+
+Jonathan Khosid
